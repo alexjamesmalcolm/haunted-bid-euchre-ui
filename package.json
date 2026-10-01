@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/alexjamesmalcolm/haunted-bid-euchre-ui#readme",
   "devDependencies": {
-    "serve": "^11.3.0"
+    "serve": "^14.2.6"
   }
 }
